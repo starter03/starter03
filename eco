@@ -1,0 +1,3 @@
+print("Say Something...")
+user_message = input()
+print("I can hear you! You said : " + user_message)
